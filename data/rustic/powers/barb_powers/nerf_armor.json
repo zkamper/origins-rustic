@@ -1,0 +1,11 @@
+{
+    "type": "apoli:attribute",
+    "modifier": {
+        "name": "Raw Defense",
+        "attribute": "minecraft:generic.armor",
+        "operation": "multiply_total",
+        "value": -0.25
+    },
+    "name": "Apărare brută",
+    "description": "Mânuiești mai greu orice tip de armură."
+}

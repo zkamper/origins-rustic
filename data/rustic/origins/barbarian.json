@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "rustic:barb_powers/more_hp",
+        "rustic:barb_powers/nerf_armor",
+        "rustic:barb_powers/rage_bar",
+        "rustic:barb_powers/rage"
+    ],
+    "icon": "minecraft:stone_axe",
+    "order": 1,
+    "impact": 1,
+    "name": "Barbarian",
+    "description": "O clasă care luptă cu brutalitate. Folosește-ți forța brută și constituția pentru a-ți zdrobi dușmanii."
+}
