@@ -1,0 +1,7 @@
+{  
+  "type": "origins:replace_loot_table",
+    "replace": {
+        "minecraft:gameplay/fishing/junk": "clarks-classes:gameplay/fishing/junk"
+    },
+    "hidden": true
+}

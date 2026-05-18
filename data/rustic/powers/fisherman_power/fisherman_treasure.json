@@ -1,0 +1,7 @@
+{  
+  "type": "origins:replace_loot_table",
+    "replace": {
+        "minecraft:gameplay/fishing/treasure": "clarks-classes:gameplay/fishing/treasure"
+    },
+    "hidden": true
+}

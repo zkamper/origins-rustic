@@ -1,0 +1,29 @@
+{
+	"type": "origins:multiple",
+	"bundle": {
+		"type": "origins:recipe",
+		"recipe": {
+			"type": "minecraft:crafting_shaped",
+			"id": "clarks-classes:bundle",
+			"pattern": [
+				"S#S",
+				"# #",
+				"###"
+			],
+			"key": {
+				"#": {
+					"item": "minecraft:rabbit_hide"
+				},
+				"S": {
+					"item": "minecraft:string"
+				}
+			},
+			"result": {
+				"item": "minecraft:bundle",
+				"count": 1
+			}
+		}
+	},
+	"name": "Bagmaker",
+	"description": "You have the ability to craft bundles."
+}

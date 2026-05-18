@@ -1,0 +1,8 @@
+{
+	"type": "origins:replace_loot_table",
+    "replace": {
+        "minecraft:entities/cow": "clarks-classes:entities/tanner_cow"
+    },
+	"name": "Skilled Harvester",
+	"description": "Cows you kill will always drop at least 1 Leather, and will drop up to 3 Leather by default."
+}

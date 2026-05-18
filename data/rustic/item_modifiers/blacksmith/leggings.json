@@ -1,0 +1,7 @@
+[
+  {
+    "function": "apoli:add_power",
+    "power": "origins-rustic:items/tough_leggings",
+    "slot": "legs"
+  }
+]

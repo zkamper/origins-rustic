@@ -1,0 +1,21 @@
+{
+  "type": "origins:conditioned_attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.movement_speed",
+    "operation": "multiply_base",
+    "value": 0.1
+  },
+  "tick_rate": 20,
+  "condition": {
+    "type": "origins:block_in_radius",
+    "radius": 3,
+    "shape": "cube",
+    "comparison": ">=",
+    "compare_to": 1,
+    "block_condition": {
+      "type": "origins:block",
+      "block": "minecraft:farmland"
+    }
+  },
+  "hidden": true
+}

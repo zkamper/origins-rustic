@@ -1,0 +1,12 @@
+{
+  "powers": [
+    "origins-rustic:tanner_pwr/tanner_bundles",
+    "origins-rustic:tanner_pwr/tanner_crafting",
+    "origins-rustic:tanner_pwr/tanner_leather"
+  ],
+  "icon": "minecraft:leather",
+  "order": 11,
+  "impact": 0,
+  "name": "Tabacar",
+  "description": "Poti prelucra pielea in diferite moduri."
+}

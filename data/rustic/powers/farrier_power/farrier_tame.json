@@ -1,0 +1,28 @@
+{
+  "type": "origins:action_on_entity_use",
+  "bientity_action": {
+    "type": "origins:tame"
+  },
+  "bientity_condition": {
+    "type": "origins:target_condition",
+    "condition": {
+      "type": "origins:entity_type",
+      "entity_type": "minecraft:horse"
+    }
+  },
+  "item_condition": {
+    "type": "origins:empty"
+  },
+  "condition": {
+    "type": "origins:sneaking"
+  },
+  "name": "Empathy",
+  "description": "You can immediately tame horses in the wild.",
+  "badges": [
+    {
+      "type": "origins:tooltip",
+      "sprite": "origins:textures/gui/badge/active.png",
+      "text": "Interact with a horse while sneaking with an empty mainhand to tame."
+    }
+  ]
+}

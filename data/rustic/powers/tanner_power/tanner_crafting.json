@@ -1,0 +1,59 @@
+{
+	"type": "origins:multiple",
+	"rotten_flesh": {
+		"type": "origins:recipe",
+		"recipe": {
+			"id": "clarks-classe:rotten_flesh",
+			"type": "minecraft:crafting_shapeless",
+			"ingredients": [
+				{
+					"item": "minecraft:sugar"
+				},
+				{
+					"item": "minecraft:rotten_flesh"
+				},
+				{
+					"item": "minecraft:bone_meal"
+				}
+
+			],
+			"result": {
+				"item": "minecraft:leather"
+			}
+		}
+	},
+	"rabbit_hide": {
+		"type": "origins:recipe",
+		"recipe": {
+			"id": "clarks-classes:rabbit_hide",
+			"type": "minecraft:crafting_shapeless",
+			"ingredients": [
+				{
+					"item": "minecraft:leather"
+				}
+
+			],
+			"result": {
+				"item": "minecraft:rabbit_hide"
+			}
+		}
+	},
+	"leather": {
+		"type": "origins:recipe",
+		"recipe": {
+			"id": "clarks-classes:leather",
+			"type": "minecraft:crafting_shapeless",
+			"ingredients": [
+				{
+					"item": "minecraft:rabbit_hide"
+				}
+
+			],
+			"result": {
+				"item": "minecraft:leather"
+			}
+		}
+	},
+	"name": "Leatherworking",
+	"description": "You can cure rotten flesh to make leather, and convert between rabbit hide and leather freely."
+}

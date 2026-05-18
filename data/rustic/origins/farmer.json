@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "origins-rustic:farmer_pwr/more_crop_drops_single_7",
+    "origins-rustic:farmer_pwr/more_crop_drops_multi_7",
+    "origins-rustic:farmer_pwr/more_crop_drops_single_3",
+    "origins-rustic:farmer_pwr/better_bone_meal",
+    "origins-rustic:farmer_pwr/farmland_lover",
+    "origins-rustic:farmer_pwr/farm_lover",
+    "origins-rustic:farmer_pwr/twin_breeding"
+  ],
+  "icon": "minecraft:wheat",
+  "name":"Farmer",
+  "description": "A profession class skilled in cultivating crops and tending to livestock.",
+  "order": 1,
+  "impact": 0
+}

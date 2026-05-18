@@ -1,0 +1,8 @@
+{  
+  "type": "origins:replace_loot_table",
+    "replace": {
+        "minecraft:gameplay/fishing/fish": "clarks-classes:gameplay/fishing/fish"
+    },
+    "name": "Gone Fishin'!",
+    "description": "Whenever you catch something, catch another loot item of the same type."
+}

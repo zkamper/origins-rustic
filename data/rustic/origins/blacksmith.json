@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "rustic:blacksmith_power/efficient_repairs",
+    "rustic:blacksmith_power/repair_ability",
+    "rustic:enchanter_power/more_xp",
+    "rustic:enchanter_power/better_enchanting"
+  ],
+  "icon": "minecraft:anvil",
+  "name":"Fierar" ,
+  "description": "Un artizan priceput, capabil să repare și să îmbunătățească uneltele și armurile cu o eficiență sporită.",
+  "order": 3,
+  "impact": 0
+}

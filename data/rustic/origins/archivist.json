@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "rustic:archivist_power/archivist_enchantments",
+    "rustic:archivist_power/archivist_dream"
+  ],
+  "icon": "minecraft:bookshelf",
+  "order": 11,
+  "impact": 0,
+  "name": "Cronicar",
+  "description": "A chronicler of arcane lore, who infuses their knowledge into tomes."
+}

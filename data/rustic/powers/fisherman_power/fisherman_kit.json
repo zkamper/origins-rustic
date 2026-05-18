@@ -1,0 +1,17 @@
+{
+  "type": "origins:starting_equipment",
+  "stacks": [
+    {
+      "item": "minecraft:fishing_rod",
+      "tag": "{display:{Name:'[{\"text\":\"The Killer Whale\",\"italic\":false,\"color\":\"gold\"}]'},Enchantments:[{id:luck_of_the_sea,lvl:2}]}"
+    }
+  ],
+  "name": "Master Baiter",
+  "description": "You start with your trusty fishing rod.",
+  "badges": [
+    {
+      "sprite": "origins:textures/gui/badge/info.png",
+      "text": "Enchantment: Luck of the Sea II."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "origins:replace_loot_table",
+  "replace": {
+    "([a-z|0-9|\\-|_]).*:blocks\/([a-z|0-9|\\-|_].*)_ore": "origins-rustic:double_ores"
+  },
+  "hidden": true
+}

@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "rustic:miner_power/no_mining_exhaustion",
+    "rustic:miner_power/double_ores"
+  ],
+  "icon": "minecraft:iron_pickaxe",
+  "name": "Miner",
+  "description": "Rock and Stone!!",
+  "order": 2,
+  "impact": 0
+}

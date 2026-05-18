@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "origins-rustic:fisherman_pwr/fisherman_kit",
+    "origins-rustic:fisherman_pwr/fisherman_fishing",
+    "origins-rustic:fisherman_pwr/fisherman_junk",
+    "origins-rustic:fisherman_pwr/fisherman_treasure"
+  ],
+  "icon": "minecraft:fishing_rod",
+  "order": 11,
+  "impact": 0,
+  "name": "Angler",
+  "description": "A humble fisherman, content with casting a line for rare fish and treasures."
+}

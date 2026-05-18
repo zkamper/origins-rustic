@@ -1,0 +1,53 @@
+{
+  "type":"origins:active_self",
+  "key":"key.origins.primary_active",
+  "cooldown":300,
+  "hud_render":{
+    "bar_index":1
+  },
+  "condition": {
+    "type": "origins:equipped_item",
+    "equipment_slot": "offhand",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "utilitix:gilding_crystal"
+      }
+    }
+  },
+  "entity_action":{
+    "type":"origins:and",
+    "actions":[
+      {
+        "type": "origins:delay",
+        "action": {
+          "type": "origins:execute_command",
+          "command": "repair"
+        },
+        "ticks": 0
+      },
+      {
+        "type": "origins:delay",
+        "action": {
+          "type": "origins:execute_command",
+          "command": "repair"
+        },
+        "ticks": 1
+      },
+      {
+        "type": "origins:delay",
+        "action": {
+          "type": "origins:execute_command",
+          "command": "clear @s utilitix:gilding_crystal 1"
+        },
+        "ticks": 0
+      },
+      {
+        "type":"origins:feed",
+        "food":-1,
+        "saturation":-1
+      }
+    ]
+  },
+  "hidden": true
+}
