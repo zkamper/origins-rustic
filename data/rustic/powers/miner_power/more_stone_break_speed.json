@@ -1,16 +1,15 @@
 {
   "type": "apoli:modify_break_speed",
   "modifier": {
-    "name": "More stone break speed",
-    "value": 0.3,
+    "value": 1.2,
     "operation": "multiply_base"
   },
   "block_condition": {
-    "type": "apoli:material",
-    "material": "stone"
+    "type": "apoli:in_tag",
+    "tag": "minecraft:base_stone_overworld"
   },
   "condition": {
-    "type": "origins:using_effective_tool"
+    "type": "apoli:using_effective_tool"
   },
   "hidden": true
 }
