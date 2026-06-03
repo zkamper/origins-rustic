@@ -1,0 +1,12 @@
+{
+  "type": "origins:replace_loot_table",
+  "replace": {
+    "([a-z|0-9|\\-|_]).*:blocks\/([a-z|0-9|\\-|_].*)": "rustic:more_crops"
+  },
+  "block_condition": {
+    "type": "origins:in_tag",
+    "tag": "minecraft:crops"
+  },
+  "name": "Belșug",
+  "description": "Recoltele tale sunt mai bogate"
+}
