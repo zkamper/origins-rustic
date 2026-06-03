@@ -1,13 +1,10 @@
 {
   "powers": [
-    "origins-rustic:fisherman_pwr/fisherman_kit",
-    "origins-rustic:fisherman_pwr/fisherman_fishing",
-    "origins-rustic:fisherman_pwr/fisherman_junk",
-    "origins-rustic:fisherman_pwr/fisherman_treasure"
+    "rustic:fisherman_power/fisherman_fishing"
   ],
   "icon": "minecraft:fishing_rod",
   "order": 11,
   "impact": 0,
-  "name": "Angler",
-  "description": "A humble fisherman, content with casting a line for rare fish and treasures."
+  "name": "Pescar",
+  "description": "Ca om al mărilor, ai îndemânare mai mare cu undița."
 }
