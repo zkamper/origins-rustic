@@ -1,7 +1,7 @@
 {
   "type":"origins:active_self",
   "key":"key.origins.primary_active",
-  "cooldown":300,
+  "cooldown":200,
   "hud_render":{
     "bar_index":1
   },
@@ -11,7 +11,7 @@
     "item_condition": {
       "type": "origins:ingredient",
       "ingredient": {
-        "item": "utilitix:gilding_crystal"
+        "item": "mmorpg:stone/3"
       }
     }
   },
@@ -22,7 +22,7 @@
         "type": "origins:delay",
         "action": {
           "type": "origins:execute_command",
-          "command": "repair"
+          "command": "repair 300"
         },
         "ticks": 0
       },
@@ -30,22 +30,14 @@
         "type": "origins:delay",
         "action": {
           "type": "origins:execute_command",
-          "command": "repair"
+          "command": "clear @s mmorpg:stone/3 1"
         },
         "ticks": 1
       },
       {
-        "type": "origins:delay",
-        "action": {
-          "type": "origins:execute_command",
-          "command": "clear @s utilitix:gilding_crystal 1"
-        },
-        "ticks": 0
-      },
-      {
         "type":"origins:feed",
-        "food":-1,
-        "saturation":-1
+        "food":-2,
+        "saturation":-2
       }
     ]
   },

@@ -1,0 +1,45 @@
+{
+  "type":"origins:active_self",
+  "key":"key.origins.primary_active",
+  "cooldown":200,
+  "hud_render":{
+    "bar_index":1
+  },
+  "condition": {
+    "type": "origins:equipped_item",
+    "equipment_slot": "offhand",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "item": "mmorpg:stone/0"
+      }
+    }
+  },
+  "entity_action":{
+    "type":"origins:and",
+    "actions":[
+      {
+        "type": "origins:delay",
+        "action": {
+          "type": "origins:execute_command",
+          "command": "repair 150"
+        },
+        "ticks": 0
+      },
+      {
+        "type": "origins:delay",
+        "action": {
+          "type": "origins:execute_command",
+          "command": "clear @s mmorpg:stone/0 1"
+        },
+        "ticks": 1
+      },
+      {
+        "type":"origins:feed",
+        "food":-2,
+        "saturation":-2
+      }
+    ]
+  },
+  "hidden": true
+}
