@@ -1,5 +1,6 @@
 {
   "powers": [
+    "rustic:farmer_power/prevent_watering_can",
     "rustic:fisherman_power/fisherman_fishing"
   ],
   "icon": "minecraft:fishing_rod",

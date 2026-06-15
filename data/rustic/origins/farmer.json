@@ -1,5 +1,6 @@
 {
   "powers": [
+    "rustic:farmer_power/prevent_watering_can",
     "rustic:farmer_power/more_crop_drops"
   ],
   "icon": "minecraft:wheat",

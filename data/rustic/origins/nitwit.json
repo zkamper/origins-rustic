@@ -1,5 +1,6 @@
 {
   "powers": [
+    "rustic:farmer_power/prevent_watering_can"
   ],
   "icon": "minecraft:poisonous_potato",
   "name": "Pleb",

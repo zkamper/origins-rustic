@@ -1,5 +1,6 @@
 {
   "powers": [
+    "rustic:farmer_power/prevent_watering_can",
     "rustic:blacksmith_power/efficient_repairs",
     "rustic:blacksmith_power/repair_ability",
     "rustic:enchanter_power/more_xp",
