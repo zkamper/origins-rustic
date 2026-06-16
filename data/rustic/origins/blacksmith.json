@@ -11,6 +11,6 @@
   "icon": "minecraft:anvil",
   "name":"Fierar" ,
   "description": "Un artizan priceput, capabil să repare și să îmbunătățească uneltele și armurile cu o eficiență sporită.",
-  "order": 3,
+  "order": 5,
   "impact": 0
 }

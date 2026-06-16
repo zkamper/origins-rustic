@@ -4,7 +4,7 @@
     "rustic:fisherman_power/fisherman_fishing"
   ],
   "icon": "minecraft:fishing_rod",
-  "order": 11,
+  "order": 3,
   "impact": 0,
   "name": "Pescar",
   "description": "Ca om al mărilor, ai îndemânare mai mare cu undița."

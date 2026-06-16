@@ -1,0 +1,18 @@
+{
+  "type": "apoli:prevent_item_use",
+  "item_condition": {
+    "type": "apoli:ingredient",
+    "ingredient": {
+      "tag": "rustic:butcher"
+    }
+  },
+  "condition": {
+    "type": "apoli:not",
+    "condition": {
+      "type": "origins:origin",
+      "origin": "rustic:butcher",
+      "layer": "origins:origin"
+    }
+  },
+  "hidden": true
+}
