@@ -5,7 +5,7 @@
     "actions": [
       {
         "type": "origins:execute_command",
-        "command": "loot give @s loot clarks-classes:generic/archivist_enchantment"
+        "command": "loot give @s loot rustic:generic/archivist_enchantment"
       },
       {
         "type": "origins:execute_command",
@@ -69,7 +69,7 @@
     {
       "type": "origins:keybind",
       "sprite": "origins:textures/gui/badge/active.png",
-      "text": "Press %s while holding a book in your mainhand with at least 5 levels of XP. Consumes 5 XP levels."
+      "text": "Apasă %s ținând o carte în mâna principală cu cel puțin 5 niveluri de XP. Consumă 5 niveluri de XP."
     }
   ]
 }
