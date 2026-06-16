@@ -1,6 +1,7 @@
 {
   "powers": [
     "rustic:farmer_power/prevent_watering_can",
+    "rustic:prevent_cleaver",
     "rustic:archivist_power/archivist_enchantments",
     "rustic:archivist_power/archivist_dream"
   ],

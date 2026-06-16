@@ -1,9 +1,10 @@
 {
   "powers": [
     "rustic:farmer_power/prevent_watering_can",
-    "origins-rustic:tanner_pwr/tanner_bundles",
-    "origins-rustic:tanner_pwr/tanner_crafting",
-    "origins-rustic:tanner_pwr/tanner_leather"
+    "rustic:prevent_cleaver",
+    "rustic:tanner_power/tanner_bundles",
+    "rustic:tanner_power/tanner_crafting",
+    "rustic:tanner_power/tanner_leather"
   ],
   "icon": "minecraft:leather",
   "order": 6,

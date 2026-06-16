@@ -1,6 +1,7 @@
 {
   "powers": [
     "rustic:farmer_power/prevent_watering_can",
+    "rustic:prevent_cleaver",
     "rustic:miner_power/no_mining_exhaustion",
     "rustic:miner_power/double_ores",
     "rustic:miner_power/more_stone_break_speed"
