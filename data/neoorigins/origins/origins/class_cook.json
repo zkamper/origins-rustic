@@ -1,15 +1,13 @@
 {
-  "name": "origins.neoorigins.class_cook.name",
-  "description": "origins.neoorigins.class_cook.description",
+  "name": "Bucătar",
+  "description": "Expert culinar ce poate găti mâncare mai sățioasă și obține mai multă experiență din gătit.",
   "icon": "minecraft:bread",
   "impact": "none",
   "order": 15,
   "powers": [
     "neoorigins:cook/class_cook_food",
     "neoorigins:cook/class_cook_smoker_xp",
-    "neoorigins:cook/class_cook_iron_stomach",
-    "neoorigins:cook/class_cook_seasoned_palate",
-    "neoorigins:cook/class_cook_knife"
+    "neoorigins:cook/class_cook_iron_stomach"
   ],
   "upgrades": []
 }

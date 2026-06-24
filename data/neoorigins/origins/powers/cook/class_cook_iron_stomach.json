@@ -1,1 +1,9 @@
-{ "type": "neoorigins:effect_immunity", "effects": ["minecraft:hunger", "minecraft:nausea"] }
+{
+    "type": "neoorigins:effect_immunity",
+    "effects": [
+        "minecraft:hunger",
+        "minecraft:nausea"
+    ],
+    "name": "Stomac de Fier",
+    "description": "Ești imun la efectele de foame și greață."
+}

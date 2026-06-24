@@ -13,5 +13,7 @@
     "duration": 100,
     "amplifier": 0
   },
-  "interval": 40
+  "interval": 40,
+  "name": "Campfire",
+  "description": "Focul de tabără te relaxează și îți regenerează viața"
 }

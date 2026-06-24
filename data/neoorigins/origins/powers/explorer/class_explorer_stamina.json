@@ -4,5 +4,7 @@
   "modifier": {
     "operation": "multiplication",
     "value": 0.6
-  }
+  },
+  "name": "Stamina",
+  "description": "Ești mai rezistent și te epuizezi mai greu."
 }

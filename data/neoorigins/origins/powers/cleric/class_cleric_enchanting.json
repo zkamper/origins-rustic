@@ -4,5 +4,7 @@
   "modifier": {
     "operation": "add_base",
     "value": 5
-  }
+  },
+  "name": "Cunoștiințe arcanice",
+  "description": "Ai +5 la nivelul de enchantare."
 }

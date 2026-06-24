@@ -4,5 +4,7 @@
   "modifier": {
     "operation": "multiplication",
     "value": 2.0
-  }
+  },
+  "name": "Alchimist",
+  "description": "Durata efectelor de poțiune este dublată."
 }

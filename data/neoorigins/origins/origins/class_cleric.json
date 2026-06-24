@@ -1,0 +1,12 @@
+{
+  "name": "Cronicar",
+  "description": "Un cronicar al cunoașterii arcanice, care își infuzează știința în tomuri.",
+  "icon": "minecraft:book",
+  "impact": "none",
+  "order": 17,
+  "powers": [
+    "neoorigins:class_cleric_enchanting",
+    "neoorigins:class_cleric_potions"
+  ],
+  "upgrades": []
+}

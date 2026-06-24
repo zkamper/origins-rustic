@@ -4,5 +4,7 @@
   "modifier": {
     "operation": "add_base",
     "value": 0.5
-  }
+  },
+  "name": "Gordon Ramsay",
+  "description": "Crește saturația mâncării create."
 }
