@@ -1,16 +1,13 @@
 {
-  "name": "origins.neoorigins.class_herbalist.name",
-  "description": "origins.neoorigins.class_herbalist.description",
-  "icon": "minecraft:wheat_seeds",
+  "name": "Fermier",
+  "description": "O meserie nobilă specializată în recolte bogate.",
+  "icon": "minecraft:wheat",
   "impact": "none",
   "order": 7,
   "powers": [
     "neoorigins:herbalist/class_herbalist_growth",
-    "neoorigins:herbalist/class_herbalist_poison_immunity",
     "neoorigins:herbalist/class_herbalist_harvest_bonus",
-    "neoorigins:herbalist/class_herbalist_green_thumb",
-    "neoorigins:herbalist/class_herbalist_starting_seeds",
-    "neoorigins:herbalist/class_herbalist_starting_bone_meal"
+    "neoorigins:herbalist/class_herbalist_green_thumb"
   ],
   "upgrades": []
 }
