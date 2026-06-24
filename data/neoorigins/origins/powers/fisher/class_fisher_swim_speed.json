@@ -3,5 +3,6 @@
   "attribute": "minecraft:movement_speed",
   "amount": 0.15,
   "operation": "add_multiplied_base",
-  "condition": "in_water"
+  "condition": "in_water",
+  "name": "Înnotător perspicace"
 }

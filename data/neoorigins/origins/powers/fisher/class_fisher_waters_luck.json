@@ -1,7 +1,12 @@
 {
   "type": "neoorigins:attribute_modifier",
   "attribute": "minecraft:luck",
-  "amount": 1.0,
+  "amount": 2.0,
   "operation": "add_value",
-  "condition": "in_water"
+  "equipment_condition": {
+    "slot": "mainhand",
+    "item": "minecraft:fishing_rod" 
+  },
+  "name": "Norocul pescarului",
+  "description": "Crește șansele de a prinde pești și obiecte rare"
 }
