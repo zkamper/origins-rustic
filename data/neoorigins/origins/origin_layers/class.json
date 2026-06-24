@@ -4,6 +4,7 @@
   "origins": [
     "neoorigins:class_miner",
     "neoorigins:class_explorer",
+    "neoorigins:cleric",
     "neoorigins:class_herbalist",
     "neoorigins:class_titan",
     "neoorigins:class_lumberjack",

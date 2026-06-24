@@ -4,5 +4,7 @@
   "modifier": {
     "operation": "multiplication",
     "value": 0.5
-  }
+  },
+  "name": "Îndemânare de fierar",
+  "description": "Costul de reparare al uneltelor și armurilor este redus la jumătate."
 }

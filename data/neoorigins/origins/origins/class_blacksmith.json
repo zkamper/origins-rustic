@@ -1,15 +1,13 @@
 {
-  "name": "origins.neoorigins.class_blacksmith.name",
-  "description": "origins.neoorigins.class_blacksmith.description",
+  "name": "Fierar",
+  "description": "Maestru al fierului încins, poți confecționa unelte de calitate superioară și să repari mai eficient echipamentele.",
   "icon": "minecraft:anvil",
   "impact": "none",
   "order": 14,
   "powers": [
     "neoorigins:blacksmith/class_blacksmith_quality",
     "neoorigins:blacksmith/class_blacksmith_repairs",
-    "neoorigins:blacksmith/class_blacksmith_forge_hands",
-    "neoorigins:blacksmith/class_blacksmith_forge_tempered",
-    "neoorigins:blacksmith/class_blacksmith_starting_iron"
+    "neoorigins:blacksmith/class_blacksmith_forge_tempered"
   ],
   "upgrades": []
 }
