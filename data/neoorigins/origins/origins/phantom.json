@@ -1,0 +1,50 @@
+{
+  "name": "origins.neoorigins.phantom.name",
+  "description": "origins.neoorigins.phantom.description",
+  "icon": "minecraft:phantom_membrane",
+  "impact": "high",
+  "order": 9,
+  "powers": [
+    "neoorigins:phantom_night_vision",
+    "neoorigins:phantom_flight",
+    "neoorigins:phantom_elytra_boost",
+    "neoorigins:phantom_moon_armor",
+    "neoorigins:phantom_soul_drain",
+    "neoorigins:phantom_no_fall",
+    "neoorigins:phantom_sunburn",
+    "neoorigins:phantom_fragile",
+    "neoorigins:phantom_no_sleep"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:phantom_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:phantom_ascended_hp",
+        "neoorigins:phantom_ascended_speed"
+      ],
+      "remove": [
+        "neoorigins:phantom_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:phantom_apex_hp",
+        "neoorigins:phantom_apex_daylight",
+        "neoorigins:phantom_apex_spectral_dodge"
+      ],
+      "remove": [
+        "neoorigins:phantom_ascended_hp",
+        "neoorigins:phantom_sunburn"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "origins.neoorigins.abyssal.name",
+  "description": "origins.neoorigins.abyssal.description",
+  "icon": "minecraft:heart_of_the_sea",
+  "impact": "high",
+  "order": 17,
+  "powers": [
+    "neoorigins:abyssal_water_breathing",
+    "neoorigins:abyssal_aquatic_speed",
+    "neoorigins:abyssal_night_vision",
+    "neoorigins:abyssal_thorns_aura",
+    "neoorigins:abyssal_natural_armor",
+    "neoorigins:abyssal_underwater_mining",
+    "neoorigins:abyssal_starting_trident",
+    "neoorigins:abyssal_summon_guardian",
+    "neoorigins:aquatic_fish_diet",
+    "neoorigins:aquatic_fish_diet_bonus",
+    "neoorigins:abyssal_land_speed_penalty",
+    "neoorigins:abyssal_dries_out",
+    "neoorigins:aquatic_depth_strider",
+    "neoorigins:abyssal_essence"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:abyssal_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:abyssal_ascended_hp",
+        "neoorigins:abyssal_ascended_swim_speed"
+      ],
+      "remove": [
+        "neoorigins:abyssal_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:abyssal_apex_hp",
+        "neoorigins:abyssal_apex_conduit_power"
+      ],
+      "remove": [
+        "neoorigins:abyssal_ascended_hp"
+      ]
+    }
+  ],
+  "spawn_location": {
+    "dimension": "minecraft:overworld",
+    "biome_tag": "minecraft:is_ocean",
+    "allow_ocean_floor": true
+  }
+}

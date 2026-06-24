@@ -1,0 +1,49 @@
+{
+  "name": "origins.neoorigins.revenant.name",
+  "description": "origins.neoorigins.revenant.description",
+  "icon": "minecraft:rotten_flesh",
+  "impact": "medium",
+  "order": 15,
+  "powers": [
+    "neoorigins:revenant_entity_group",
+    "neoorigins:revenant_water_breathing",
+    "neoorigins:revenant_night_vision",
+    "neoorigins:revenant_active_phase",
+    "neoorigins:revenant_active_bolt",
+    "neoorigins:revenant_daylight_damage",
+    "neoorigins:revenant_slow_regen",
+    "neoorigins:revenant_energy"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:revenant_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:revenant_ascended_hp",
+        "neoorigins:revenant_ascended_undying_will"
+      ],
+      "remove": [
+        "neoorigins:revenant_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:revenant_apex_hp",
+        "neoorigins:revenant_apex_armor",
+        "neoorigins:revenant_apex_fire_resistance"
+      ],
+      "remove": [
+        "neoorigins:revenant_ascended_hp",
+        "neoorigins:revenant_ascended_undying_will"
+      ]
+    }
+  ]
+}

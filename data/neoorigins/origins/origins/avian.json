@@ -1,0 +1,46 @@
+{
+  "name": "origins.neoorigins.avian.name",
+  "description": "origins.neoorigins.avian.description",
+  "icon": "minecraft:feather",
+  "impact": "low",
+  "order": 3,
+  "powers": [
+    "neoorigins:avian_no_fall_damage",
+    "neoorigins:avian_slow_fall",
+    "neoorigins:avian_no_hunger_sprint",
+    "neoorigins:avian_keen_sight",
+    "neoorigins:avian_hollow_bones",
+    "neoorigins:avian_feather_hop"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:avian_evolved_hp",
+        "neoorigins:avian_evolved_slow_fall"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:avian_ascended_hp",
+        "neoorigins:avian_ascended_jump_boost"
+      ],
+      "remove": [
+        "neoorigins:avian_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:avian_apex_hp",
+        "neoorigins:avian_apex_speed"
+      ],
+      "remove": [
+        "neoorigins:avian_ascended_hp"
+      ]
+    }
+  ]
+}

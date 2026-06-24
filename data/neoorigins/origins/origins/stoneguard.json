@@ -1,0 +1,49 @@
+{
+  "name": "origins.neoorigins.stoneguard.name",
+  "description": "origins.neoorigins.stoneguard.description",
+  "icon": "minecraft:stone",
+  "impact": "medium",
+  "order": 19,
+  "powers": [
+    "neoorigins:stoneguard_natural_armor",
+    "neoorigins:stoneguard_thorns_aura",
+    "neoorigins:stoneguard_knockback_resist",
+    "neoorigins:stoneguard_active_glowstone",
+    "neoorigins:stoneguard_slow_movement",
+    "neoorigins:stoneguard_stone_mining",
+    "neoorigins:stoneguard_no_mob_spawns",
+    "neoorigins:stoneguard_stamina"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:stoneguard_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:stoneguard_ascended_hp",
+        "neoorigins:stoneguard_ascended_armor",
+        "neoorigins:stoneguard_ascended_knockback_resistance"
+      ],
+      "remove": [
+        "neoorigins:stoneguard_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:stoneguard_apex_hp",
+        "neoorigins:stoneguard_apex_armor"
+      ],
+      "remove": [
+        "neoorigins:stoneguard_ascended_hp",
+        "neoorigins:stoneguard_ascended_armor"
+      ]
+    }
+  ]
+}

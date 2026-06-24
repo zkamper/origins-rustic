@@ -1,0 +1,49 @@
+{
+  "name": "origins.neoorigins.cinderborn.name",
+  "description": "origins.neoorigins.cinderborn.description",
+  "icon": "minecraft:magma_block",
+  "impact": "high",
+  "order": 29,
+  "powers": [
+    "neoorigins:cinderborn_fire_immunity",
+    "neoorigins:cinderborn_fireball",
+    "neoorigins:cinderborn_natural_armor",
+    "neoorigins:cinderborn_lava_regen",
+    "neoorigins:cinderborn_nether_buff",
+    "neoorigins:cinderborn_water_weakness",
+    "neoorigins:cinderborn_night_vision",
+    "neoorigins:cinderborn_scare_mobs",
+    "neoorigins:nether_fungus_diet",
+    "neoorigins:cinderborn_stamina"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:cinderborn_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:cinderborn_ascended_hp",
+        "neoorigins:cinderborn_ascended_ember_shield"
+      ],
+      "remove": [
+        "neoorigins:cinderborn_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:cinderborn_apex_hp",
+        "neoorigins:cinderborn_apex_fire_resistance"
+      ],
+      "remove": [
+        "neoorigins:cinderborn_ascended_hp"
+      ]
+    }
+  ]
+}

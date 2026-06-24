@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "enabled": false,
-  "origins": [
-    "rustic:rogue",
-    "rustic:barbarian",
-    "rustic:knight"
-  ]
-}

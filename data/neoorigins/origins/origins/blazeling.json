@@ -1,0 +1,49 @@
+{
+  "name": "origins.neoorigins.blazeling.name",
+  "description": "origins.neoorigins.blazeling.description",
+  "icon": "minecraft:blaze_rod",
+  "impact": "high",
+  "order": 4,
+  "powers": [
+    "neoorigins:blazeling_fire_immunity",
+    "neoorigins:blazeling_blaze_scales",
+    "neoorigins:blazeling_nether_born",
+    "neoorigins:blazeling_internal_heat",
+    "neoorigins:blazeling_water_damage",
+    "neoorigins:blazeling_night_vision",
+    "neoorigins:blazeling_firebolt",
+    "neoorigins:blazeling_stone_fists",
+    "neoorigins:nether_fungus_diet",
+    "neoorigins:blazeling_energy"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:blazeling_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:blazeling_ascended_fire_resistance"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:blazeling_apex_hp"
+      ],
+      "remove": [
+        "neoorigins:blazeling_evolved_hp",
+        "neoorigins:blazeling_water_damage"
+      ]
+    }
+  ],
+  "spawn_location": {
+    "dimension": "minecraft:the_nether"
+  }
+}

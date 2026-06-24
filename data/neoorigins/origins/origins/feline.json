@@ -1,0 +1,50 @@
+{
+  "name": "origins.neoorigins.feline.name",
+  "description": "origins.neoorigins.feline.description",
+  "icon": "minecraft:salmon",
+  "impact": "medium",
+  "order": 10,
+  "powers": [
+    "neoorigins:feline_no_fall_damage",
+    "neoorigins:feline_night_vision",
+    "neoorigins:feline_speed_boost",
+    "neoorigins:feline_mobs_ignore",
+    "neoorigins:feline_active_launch",
+    "neoorigins:feline_water_weakness",
+    "neoorigins:feline_hunger_drain",
+    "neoorigins:feline_energy"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:feline_evolved_hp",
+        "neoorigins:feline_evolved_fall_resist"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:feline_ascended_hp",
+        "neoorigins:feline_ascended_fall_immunity",
+        "neoorigins:feline_ascended_night_vision"
+      ],
+      "remove": [
+        "neoorigins:feline_evolved_hp",
+        "neoorigins:feline_evolved_fall_resist"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:feline_apex_hp",
+        "neoorigins:feline_apex_speed"
+      ],
+      "remove": [
+        "neoorigins:feline_ascended_hp"
+      ]
+    }
+  ]
+}

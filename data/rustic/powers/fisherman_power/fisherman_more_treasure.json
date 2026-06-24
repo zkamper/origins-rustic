@@ -1,8 +1,0 @@
-{
-  "type": "origins:replace_loot_table",
-  "replace": {
-    "minecraft:gameplay/fishing": "rustic:gameplay/fishing"
-  },
-  "name": "Fir întins",
-  "description": "Ai o șansă mică de a prinde comori pe lângă pește."
-}

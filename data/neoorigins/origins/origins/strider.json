@@ -1,0 +1,49 @@
+{
+  "name": "origins.neoorigins.strider.name",
+  "description": "origins.neoorigins.strider.description",
+  "icon": "minecraft:magma_cream",
+  "impact": "high",
+  "order": 25,
+  "powers": [
+    "neoorigins:strider_fire_immunity",
+    "neoorigins:strider_nether_buff",
+    "neoorigins:strider_water_weakness",
+    "neoorigins:strider_lava_regen",
+    "neoorigins:strider_night_vision",
+    "neoorigins:strider_overworld_slowness",
+    "neoorigins:strider_natural_armor",
+    "neoorigins:strider_stampede",
+    "neoorigins:nether_fungus_diet",
+    "neoorigins:strider_stamina"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:strider_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:strider_ascended_hp",
+        "neoorigins:strider_ascended_speed"
+      ],
+      "remove": [
+        "neoorigins:strider_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:strider_apex_hp",
+        "neoorigins:strider_apex_fire_resistance"
+      ],
+      "remove": [
+        "neoorigins:strider_ascended_hp"
+      ]
+    }
+  ]
+}

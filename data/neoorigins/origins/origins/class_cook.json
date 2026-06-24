@@ -1,0 +1,15 @@
+{
+  "name": "origins.neoorigins.class_cook.name",
+  "description": "origins.neoorigins.class_cook.description",
+  "icon": "minecraft:bread",
+  "impact": "none",
+  "order": 15,
+  "powers": [
+    "neoorigins:cook/class_cook_food",
+    "neoorigins:cook/class_cook_smoker_xp",
+    "neoorigins:cook/class_cook_iron_stomach",
+    "neoorigins:cook/class_cook_seasoned_palate",
+    "neoorigins:cook/class_cook_knife"
+  ],
+  "upgrades": []
+}

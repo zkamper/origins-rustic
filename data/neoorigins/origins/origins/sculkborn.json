@@ -1,0 +1,50 @@
+{
+  "name": "origins.neoorigins.sculkborn.name",
+  "description": "origins.neoorigins.sculkborn.description",
+  "icon": "minecraft:sculk",
+  "impact": "high",
+  "order": 30,
+  "powers": [
+    "neoorigins:sculkborn_sonic_bolt",
+    "neoorigins:sculkborn_darkness_aura",
+    "neoorigins:sculkborn_night_vision",
+    "neoorigins:sculkborn_natural_armor",
+    "neoorigins:sculkborn_knockback_resist",
+    "neoorigins:sculkborn_daylight_damage",
+    "neoorigins:sculkborn_projectile_immunity",
+    "neoorigins:sculkborn_vibration_sense",
+    "neoorigins:sculkborn_slow_movement",
+    "neoorigins:sculkborn_reduced_health",
+    "neoorigins:sculkborn_stamina"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:sculkborn_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:sculkborn_ascended_hp",
+        "neoorigins:sculkborn_ascended_night_vision"
+      ],
+      "remove": [
+        "neoorigins:sculkborn_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:sculkborn_apex_hp",
+        "neoorigins:sculkborn_apex_armor"
+      ],
+      "remove": [
+        "neoorigins:sculkborn_ascended_hp"
+      ]
+    }
+  ]
+}

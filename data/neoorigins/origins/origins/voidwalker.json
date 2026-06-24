@@ -1,0 +1,47 @@
+{
+  "name": "origins.neoorigins.voidwalker.name",
+  "description": "origins.neoorigins.voidwalker.description",
+  "icon": "minecraft:ender_pearl",
+  "impact": "medium",
+  "order": 18,
+  "powers": [
+    "neoorigins:voidwalker_active_phase",
+    "neoorigins:voidwalker_active_teleport",
+    "neoorigins:voidwalker_night_vision",
+    "neoorigins:voidwalker_mobs_ignore",
+    "neoorigins:voidwalker_water_damage",
+    "neoorigins:voidwalker_no_hunger_sprint",
+    "neoorigins:voidwalker_energy"
+  ],
+  "upgrades": [],
+  "tier_powers": [
+    {
+      "tier": 1,
+      "add": [
+        "neoorigins:voidwalker_evolved_hp"
+      ],
+      "remove": []
+    },
+    {
+      "tier": 2,
+      "add": [
+        "neoorigins:voidwalker_ascended_hp",
+        "neoorigins:voidwalker_ascended_fall_resist"
+      ],
+      "remove": [
+        "neoorigins:voidwalker_evolved_hp"
+      ]
+    },
+    {
+      "tier": 3,
+      "add": [
+        "neoorigins:voidwalker_apex_hp",
+        "neoorigins:voidwalker_apex_fall_immunity"
+      ],
+      "remove": [
+        "neoorigins:voidwalker_ascended_hp",
+        "neoorigins:voidwalker_ascended_fall_resist"
+      ]
+    }
+  ]
+}

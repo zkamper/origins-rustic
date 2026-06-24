@@ -1,0 +1,13 @@
+{
+  "order": 1,
+  "name": "origins.layer.origin",
+  "origins": [
+    "neoorigins:human",
+    "neoorigins:sylvan",
+    "neoorigins:dwarf"
+  ],
+  "allow_random": true,
+  "auto_choose": false,
+  "hidden": false,
+  "enabled": true
+}
