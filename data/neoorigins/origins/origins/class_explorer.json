@@ -1,6 +1,6 @@
 {
-  "name": "origins.neoorigins.class_explorer.name",
-  "description": "origins.neoorigins.class_explorer.description",
+  "name": "Explorator",
+  "description": "O persoană temerară, care se aruncă imediat în necunoscut.",
   "icon": "minecraft:compass",
   "impact": "none",
   "order": 5,

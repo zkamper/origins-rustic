@@ -1,6 +1,6 @@
 {
-  "name": "origins.neoorigins.class_merchant.name",
-  "description": "origins.neoorigins.class_merchant.description",
+  "name": "Negustor",
+  "description": "Un individ care se ocupă de comerț și schimburi comerciale.",
   "icon": "minecraft:emerald",
   "impact": "none",
   "order": 16,

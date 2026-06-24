@@ -1,1 +1,6 @@
-{ "type": "neoorigins:attribute_modifier", "attribute": "minecraft:luck", "amount": 1.0, "operation": "add_value" }
+{
+    "type": "neoorigins:attribute_modifier",
+    "attribute": "minecraft:luck",
+    "amount": 1.0,
+    "operation": "add_value"
+}

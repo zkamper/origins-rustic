@@ -1,6 +1,6 @@
 {
-  "name": "origins.neoorigins.class_fisher.name",
-  "description": "origins.neoorigins.class_fisher.description",
+  "name": "Pescar",
+  "description": "Ca om al mărilor, ai îndemânare mai mare cu undița.",
   "icon": "minecraft:fishing_rod",
   "impact": "medium",
   "order": 18,

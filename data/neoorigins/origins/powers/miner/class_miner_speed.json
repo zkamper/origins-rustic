@@ -1,4 +1,7 @@
 {
   "type": "neoorigins:break_speed_modifier",
-  "multiplier": 1.5
+  "multiplier": 3.0,
+  "block_tag": "minecraft:stone",
+  "name": "Expert în minerit",
+  "description": "Obosești mai puțin și sapi mai repede în piatră."
 }

@@ -5,8 +5,8 @@
   "impact": "none",
   "order": 17,
   "powers": [
-    "neoorigins:class_cleric_enchanting",
-    "neoorigins:class_cleric_potions"
+    "neoorigins:cleric/class_cleric_enchanting",
+    "neoorigins:cleric/class_cleric_potions"
   ],
   "upgrades": []
 }
