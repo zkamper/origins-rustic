@@ -6,7 +6,7 @@
   "order": 7,
   "powers": [
     "neoorigins:herbalist/class_herbalist_growth",
-    "neoorigins:herbalist/class_herbalist_harvest_bonus",
+    "neoorigins:herbalist/class_herbalist_double_crops",
     "neoorigins:herbalist/class_herbalist_green_thumb"
   ],
   "upgrades": []
