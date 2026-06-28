@@ -5,42 +5,42 @@
   "impact": "high",
   "order": 33,
   "powers": [
-    "neoorigins:gorgon_petrifying_gaze",
-    "neoorigins:gorgon_stone_fists",
-    "neoorigins:gorgon_granite_hide",
-    "neoorigins:gorgon_knockback_resist",
-    "neoorigins:gorgon_heavy_frame",
-    "neoorigins:gorgon_size",
-    "neoorigins:gorgon_hunger_drain",
-    "neoorigins:gorgon_stamina"
+    "neoorigins:gorgon/gorgon_petrifying_gaze",
+    "neoorigins:gorgon/gorgon_stone_fists",
+    "neoorigins:gorgon/gorgon_granite_hide",
+    "neoorigins:gorgon/gorgon_knockback_resist",
+    "neoorigins:gorgon/gorgon_heavy_frame",
+    "neoorigins:gorgon/gorgon_size",
+    "neoorigins:gorgon/gorgon_hunger_drain",
+    "neoorigins:gorgon/gorgon_stamina"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:gorgon_evolved_hp"
+        "neoorigins:gorgon/gorgon_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:gorgon_ascended_hp",
-        "neoorigins:gorgon_ascended_armor"
+        "neoorigins:gorgon/gorgon_ascended_hp",
+        "neoorigins:gorgon/gorgon_ascended_armor"
       ],
       "remove": [
-        "neoorigins:gorgon_evolved_hp"
+        "neoorigins:gorgon/gorgon_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:gorgon_apex_hp",
-        "neoorigins:gorgon_apex_speed"
+        "neoorigins:gorgon/gorgon_apex_hp",
+        "neoorigins:gorgon/gorgon_apex_speed"
       ],
       "remove": [
-        "neoorigins:gorgon_ascended_hp"
+        "neoorigins:gorgon/gorgon_ascended_hp"
       ]
     }
   ]

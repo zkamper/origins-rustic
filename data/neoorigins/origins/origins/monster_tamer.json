@@ -5,40 +5,40 @@
   "impact": "high",
   "order": 39,
   "powers": [
-    "neoorigins:tamer_tame_mob",
-    "neoorigins:tamer_command_pack",
-    "neoorigins:tamer_horde_regen",
-    "neoorigins:tamer_weak_alone",
-    "neoorigins:tamer_hunger_drain",
-    "neoorigins:tamer_essence"
+    "neoorigins:monster_tamer/tamer_tame_mob",
+    "neoorigins:monster_tamer/tamer_command_pack",
+    "neoorigins:monster_tamer/tamer_horde_regen",
+    "neoorigins:monster_tamer/tamer_weak_alone",
+    "neoorigins:monster_tamer/tamer_hunger_drain",
+    "neoorigins:monster_tamer/tamer_essence"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:monster_tamer_evolved_hp"
+        "neoorigins:monster_tamer/monster_tamer_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:monster_tamer_ascended_hp",
-        "neoorigins:monster_tamer_ascended_armor"
+        "neoorigins:monster_tamer/monster_tamer_ascended_hp",
+        "neoorigins:monster_tamer/monster_tamer_ascended_armor"
       ],
       "remove": [
-        "neoorigins:monster_tamer_evolved_hp"
+        "neoorigins:monster_tamer/monster_tamer_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:monster_tamer_apex_hp",
-        "neoorigins:monster_tamer_apex_speed"
+        "neoorigins:monster_tamer/monster_tamer_apex_hp",
+        "neoorigins:monster_tamer/monster_tamer_apex_speed"
       ],
       "remove": [
-        "neoorigins:monster_tamer_ascended_hp"
+        "neoorigins:monster_tamer/monster_tamer_ascended_hp"
       ]
     }
   ]

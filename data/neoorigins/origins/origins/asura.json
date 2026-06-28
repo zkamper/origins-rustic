@@ -5,18 +5,18 @@
   "impact": "high",
   "order": 100,
   "powers": [
-    "neoorigins:asura_frail_frame",
-    "neoorigins:asura_bloodrage_1",
-    "neoorigins:asura_bloodrage_2",
-    "neoorigins:asura_bloodrage_3",
-    "neoorigins:asura_unmovable",
-    "neoorigins:asura_slam",
-    "neoorigins:asura_frenzy"
+    "neoorigins:asura/asura_frail_frame",
+    "neoorigins:asura/asura_bloodrage_1",
+    "neoorigins:asura/asura_bloodrage_2",
+    "neoorigins:asura/asura_bloodrage_3",
+    "neoorigins:asura/asura_unmovable",
+    "neoorigins:asura/asura_slam",
+    "neoorigins:asura/asura_frenzy"
   ],
   "upgrades": [],
   "tier_powers": [
-    { "tier": 1, "add": [ "neoorigins:asura_undying_rage" ], "remove": [] },
-    { "tier": 2, "add": [ "neoorigins:asura_blood_tithe" ], "remove": [] },
-    { "tier": 3, "add": [ "neoorigins:asura_wrath_eruption" ], "remove": [] }
+    { "tier": 1, "add": [ "neoorigins:asura/asura_undying_rage" ], "remove": [] },
+    { "tier": 2, "add": [ "neoorigins:asura/asura_blood_tithe" ], "remove": [] },
+    { "tier": 3, "add": [ "neoorigins:asura/asura_wrath_eruption" ], "remove": [] }
   ]
 }

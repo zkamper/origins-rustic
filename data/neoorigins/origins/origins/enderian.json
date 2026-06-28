@@ -5,39 +5,39 @@
   "impact": "low",
   "order": 6,
   "powers": [
-    "neoorigins:enderian_ender_eyes",
-    "neoorigins:enderian_projectile_dodge",
-    "neoorigins:enderian_water_damage",
-    "neoorigins:enderian_teleport",
-    "neoorigins:enderian_energy"
+    "neoorigins:enderian/enderian_ender_eyes",
+    "neoorigins:enderian/enderian_projectile_dodge",
+    "neoorigins:enderian/enderian_water_damage",
+    "neoorigins:enderian/enderian_teleport",
+    "neoorigins:enderian/enderian_energy"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:enderian_evolved_hp"
+        "neoorigins:enderian/enderian_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:enderian_ascended_pearl_immune",
-        "neoorigins:enderian_ascended_hp"
+        "neoorigins:enderian/enderian_ascended_pearl_immune",
+        "neoorigins:enderian/enderian_ascended_hp"
       ],
       "remove": [
-        "neoorigins:enderian_evolved_hp"
+        "neoorigins:enderian/enderian_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:enderian_apex_hp"
+        "neoorigins:enderian/enderian_apex_hp"
       ],
       "remove": [
-        "neoorigins:enderian_ascended_hp",
-        "neoorigins:enderian_water_damage"
+        "neoorigins:enderian/enderian_ascended_hp",
+        "neoorigins:enderian/enderian_water_damage"
       ]
     }
   ],

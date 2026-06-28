@@ -5,43 +5,43 @@
   "impact": "high",
   "order": 28,
   "powers": [
-    "neoorigins:hiveling_flight",
-    "neoorigins:hiveling_jump_boost",
-    "neoorigins:hiveling_sting",
-    "neoorigins:hiveling_crop_growth",
-    "neoorigins:hiveling_size",
-    "neoorigins:hiveling_entity_group",
-    "neoorigins:hiveling_reduced_health",
-    "neoorigins:hiveling_hunger_drain",
-    "neoorigins:hiveling_energy"
+    "neoorigins:hiveling/hiveling_flight",
+    "neoorigins:hiveling/hiveling_jump_boost",
+    "neoorigins:hiveling/hiveling_sting",
+    "neoorigins:hiveling/hiveling_crop_growth",
+    "neoorigins:hiveling/hiveling_size",
+    "neoorigins:hiveling/hiveling_entity_group",
+    "neoorigins:hiveling/hiveling_reduced_health",
+    "neoorigins:hiveling/hiveling_hunger_drain",
+    "neoorigins:hiveling/hiveling_energy"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:hiveling_evolved_hp"
+        "neoorigins:hiveling/hiveling_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:hiveling_ascended_hp",
-        "neoorigins:hiveling_ascended_speed"
+        "neoorigins:hiveling/hiveling_ascended_hp",
+        "neoorigins:hiveling/hiveling_ascended_speed"
       ],
       "remove": [
-        "neoorigins:hiveling_evolved_hp"
+        "neoorigins:hiveling/hiveling_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:hiveling_apex_hp",
-        "neoorigins:hiveling_apex_poison_immunity"
+        "neoorigins:hiveling/hiveling_apex_hp",
+        "neoorigins:hiveling/hiveling_apex_poison_immunity"
       ],
       "remove": [
-        "neoorigins:hiveling_ascended_hp"
+        "neoorigins:hiveling/hiveling_ascended_hp"
       ]
     }
   ]

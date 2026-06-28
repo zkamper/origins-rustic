@@ -6,31 +6,31 @@
   "order": 18,
   "required_mods": ["dragonsurvival"],
   "powers": [
-    "neoorigins:cave_dragon_form"
+    "neoorigins:cave_dragon/cave_dragon_form"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:cave_dragon_evolved_hp"
+        "neoorigins:cave_dragon/cave_dragon_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:cave_dragon_ascended_might"
+        "neoorigins:cave_dragon/cave_dragon_ascended_might"
       ],
       "remove": []
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:cave_dragon_apex_hp"
+        "neoorigins:cave_dragon/cave_dragon_apex_hp"
       ],
       "remove": [
-        "neoorigins:cave_dragon_evolved_hp"
+        "neoorigins:cave_dragon/cave_dragon_evolved_hp"
       ]
     }
   ],

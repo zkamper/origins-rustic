@@ -5,44 +5,44 @@
   "impact": "high",
   "order": 34,
   "powers": [
-    "neoorigins:automaton_iron_frame",
-    "neoorigins:automaton_no_drown",
-    "neoorigins:automaton_no_hunger",
-    "neoorigins:automaton_hide_hunger_bar",
-    "neoorigins:automaton_hide_air_bar",
-    "neoorigins:automaton_potion_resistance",
-    "neoorigins:automaton_night_optics",
-    "neoorigins:automaton_heavy_chassis",
-    "neoorigins:automaton_rigid_joints",
-    "neoorigins:automaton_knockback_resist"
+    "neoorigins:automaton/automaton_iron_frame",
+    "neoorigins:automaton/automaton_no_drown",
+    "neoorigins:automaton/automaton_no_hunger",
+    "neoorigins:automaton/automaton_hide_hunger_bar",
+    "neoorigins:automaton/automaton_hide_air_bar",
+    "neoorigins:automaton/automaton_potion_resistance",
+    "neoorigins:automaton/automaton_night_optics",
+    "neoorigins:automaton/automaton_heavy_chassis",
+    "neoorigins:automaton/automaton_rigid_joints",
+    "neoorigins:automaton/automaton_knockback_resist"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:automaton_evolved_hp"
+        "neoorigins:automaton/automaton_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:automaton_ascended_hp",
-        "neoorigins:automaton_ascended_overclock"
+        "neoorigins:automaton/automaton_ascended_hp",
+        "neoorigins:automaton/automaton_ascended_overclock"
       ],
       "remove": [
-        "neoorigins:automaton_evolved_hp"
+        "neoorigins:automaton/automaton_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:automaton_apex_hp",
-        "neoorigins:automaton_apex_fire_resistance"
+        "neoorigins:automaton/automaton_apex_hp",
+        "neoorigins:automaton/automaton_apex_fire_resistance"
       ],
       "remove": [
-        "neoorigins:automaton_ascended_hp"
+        "neoorigins:automaton/automaton_ascended_hp"
       ]
     }
   ]

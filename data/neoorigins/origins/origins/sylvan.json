@@ -5,41 +5,41 @@
   "impact": "low",
   "order": 13,
   "powers": [
-    "neoorigins:sylvan_mobs_ignore",
-    "neoorigins:sylvan_regen_in_water",
-    "neoorigins:sylvan_forest_speed",
-    "neoorigins:sylvan_crop_growth",
-    "neoorigins:sylvan_active_root",
-    "neoorigins:sylvan_nether_damage",
-    "neoorigins:sylvan_vitality"
+    "neoorigins:sylvan/sylvan_mobs_ignore",
+    "neoorigins:sylvan/sylvan_regen_in_water",
+    "neoorigins:sylvan/sylvan_forest_speed",
+    "neoorigins:sylvan/sylvan_crop_growth",
+    "neoorigins:sylvan/sylvan_active_root",
+    "neoorigins:sylvan/sylvan_nether_damage",
+    "neoorigins:sylvan/sylvan_vitality"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:sylvan_evolved_hp"
+        "neoorigins:sylvan/sylvan_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:sylvan_ascended_hp",
-        "neoorigins:sylvan_ascended_night_vision"
+        "neoorigins:sylvan/sylvan_ascended_hp",
+        "neoorigins:sylvan/sylvan_ascended_night_vision"
       ],
       "remove": [
-        "neoorigins:sylvan_evolved_hp"
+        "neoorigins:sylvan/sylvan_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:sylvan_apex_hp",
-        "neoorigins:sylvan_apex_speed"
+        "neoorigins:sylvan/sylvan_apex_hp",
+        "neoorigins:sylvan/sylvan_apex_speed"
       ],
       "remove": [
-        "neoorigins:sylvan_ascended_hp"
+        "neoorigins:sylvan/sylvan_ascended_hp"
       ]
     }
   ]

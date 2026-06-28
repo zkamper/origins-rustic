@@ -5,41 +5,41 @@
   "impact": "high",
   "order": 38,
   "powers": [
-    "neoorigins:breeze_wind_charge",
-    "neoorigins:breeze_wind_dash",
-    "neoorigins:breeze_no_fall_damage",
-    "neoorigins:breeze_jump_boost",
-    "neoorigins:breeze_speed_boost",
-    "neoorigins:breeze_reduced_health",
-    "neoorigins:breeze_light_frame"
+    "neoorigins:breeze/breeze_wind_charge",
+    "neoorigins:breeze/breeze_wind_dash",
+    "neoorigins:breeze/breeze_no_fall_damage",
+    "neoorigins:breeze/breeze_jump_boost",
+    "neoorigins:breeze/breeze_speed_boost",
+    "neoorigins:breeze/breeze_reduced_health",
+    "neoorigins:breeze/breeze_light_frame"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:breeze_evolved_hp"
+        "neoorigins:breeze/breeze_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:breeze_ascended_hp",
-        "neoorigins:breeze_ascended_slow_falling"
+        "neoorigins:breeze/breeze_ascended_hp",
+        "neoorigins:breeze/breeze_ascended_slow_falling"
       ],
       "remove": [
-        "neoorigins:breeze_evolved_hp"
+        "neoorigins:breeze/breeze_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:breeze_apex_hp",
-        "neoorigins:breeze_apex_jump_boost"
+        "neoorigins:breeze/breeze_apex_hp",
+        "neoorigins:breeze/breeze_apex_jump_boost"
       ],
       "remove": [
-        "neoorigins:breeze_ascended_hp"
+        "neoorigins:breeze/breeze_ascended_hp"
       ]
     }
   ]

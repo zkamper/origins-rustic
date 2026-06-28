@@ -5,40 +5,40 @@
   "impact": "high",
   "order": 8,
   "powers": [
-    "neoorigins:shulk_natural_armor",
-    "neoorigins:shulk_slow_movement",
-    "neoorigins:shulk_levitation_burst",
-    "neoorigins:shulk_shell_retreat",
-    "neoorigins:shulk_levitation_immunity",
-    "neoorigins:shulk_stamina"
+    "neoorigins:shulk/shulk_natural_armor",
+    "neoorigins:shulk/shulk_slow_movement",
+    "neoorigins:shulk/shulk_levitation_burst",
+    "neoorigins:shulk/shulk_shell_retreat",
+    "neoorigins:shulk/shulk_levitation_immunity",
+    "neoorigins:shulk/shulk_stamina"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:shulk_evolved_hp"
+        "neoorigins:shulk/shulk_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:shulk_ascended_hp",
-        "neoorigins:shulk_ascended_armor"
+        "neoorigins:shulk/shulk_ascended_hp",
+        "neoorigins:shulk/shulk_ascended_armor"
       ],
       "remove": [
-        "neoorigins:shulk_evolved_hp"
+        "neoorigins:shulk/shulk_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:shulk_apex_hp",
-        "neoorigins:shulk_apex_knockback_resistance"
+        "neoorigins:shulk/shulk_apex_hp",
+        "neoorigins:shulk/shulk_apex_knockback_resistance"
       ],
       "remove": [
-        "neoorigins:shulk_ascended_hp"
+        "neoorigins:shulk/shulk_ascended_hp"
       ]
     }
   ]

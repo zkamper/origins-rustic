@@ -5,41 +5,41 @@
   "impact": "medium",
   "order": 16,
   "powers": [
-    "neoorigins:tiny_size",
-    "neoorigins:tiny_wall_climbing",
-    "neoorigins:tiny_speed_boost",
-    "neoorigins:tiny_no_fall_damage",
-    "neoorigins:tiny_item_magnetism",
-    "neoorigins:tiny_attack_penalty",
-    "neoorigins:tiny_hunger_drain"
+    "neoorigins:tiny/tiny_size",
+    "neoorigins:tiny/tiny_wall_climbing",
+    "neoorigins:tiny/tiny_speed_boost",
+    "neoorigins:tiny/tiny_no_fall_damage",
+    "neoorigins:tiny/tiny_item_magnetism",
+    "neoorigins:tiny/tiny_attack_penalty",
+    "neoorigins:tiny/tiny_hunger_drain"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:tiny_evolved_hp"
+        "neoorigins:tiny/tiny_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:tiny_ascended_hp",
-        "neoorigins:tiny_ascended_speed"
+        "neoorigins:tiny/tiny_ascended_hp",
+        "neoorigins:tiny/tiny_ascended_speed"
       ],
       "remove": [
-        "neoorigins:tiny_evolved_hp"
+        "neoorigins:tiny/tiny_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:tiny_apex_hp",
-        "neoorigins:tiny_apex_evasion"
+        "neoorigins:tiny/tiny_apex_hp",
+        "neoorigins:tiny/tiny_apex_evasion"
       ],
       "remove": [
-        "neoorigins:tiny_ascended_hp"
+        "neoorigins:tiny/tiny_ascended_hp"
       ]
     }
   ]

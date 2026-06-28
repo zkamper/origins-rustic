@@ -5,46 +5,46 @@
   "impact": "high",
   "order": 36,
   "powers": [
-    "neoorigins:warden_sonic_boom",
-    "neoorigins:warden_echolocation",
-    "neoorigins:warden_tremor_sense",
-    "neoorigins:warden_strength",
-    "neoorigins:warden_ancient_hide",
-    "neoorigins:warden_night_vision",
-    "neoorigins:warden_hulking_frame",
-    "neoorigins:warden_daylight_damage",
-    "neoorigins:warden_lumbering",
-    "neoorigins:warden_stamina"
+    "neoorigins:warden/warden_sonic_boom",
+    "neoorigins:warden/warden_echolocation",
+    "neoorigins:warden/warden_tremor_sense",
+    "neoorigins:warden/warden_strength",
+    "neoorigins:warden/warden_ancient_hide",
+    "neoorigins:warden/warden_night_vision",
+    "neoorigins:warden/warden_hulking_frame",
+    "neoorigins:warden/warden_daylight_damage",
+    "neoorigins:warden/warden_lumbering",
+    "neoorigins:warden/warden_stamina"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:warden_evolved_hp"
+        "neoorigins:warden/warden_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:warden_ascended_hp",
-        "neoorigins:warden_ascended_armor"
+        "neoorigins:warden/warden_ascended_hp",
+        "neoorigins:warden/warden_ascended_armor"
       ],
       "remove": [
-        "neoorigins:warden_evolved_hp"
+        "neoorigins:warden/warden_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:warden_apex_hp",
-        "neoorigins:warden_apex_armor",
-        "neoorigins:warden_apex_attack_damage"
+        "neoorigins:warden/warden_apex_hp",
+        "neoorigins:warden/warden_apex_armor",
+        "neoorigins:warden/warden_apex_attack_damage"
       ],
       "remove": [
-        "neoorigins:warden_ascended_hp",
-        "neoorigins:warden_ascended_armor"
+        "neoorigins:warden/warden_ascended_hp",
+        "neoorigins:warden/warden_ascended_armor"
       ]
     }
   ]

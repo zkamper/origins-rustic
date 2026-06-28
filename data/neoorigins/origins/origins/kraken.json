@@ -5,49 +5,49 @@
   "impact": "high",
   "order": 35,
   "powers": [
-    "neoorigins:kraken_tentacle_lash",
-    "neoorigins:kraken_ink_shot",
-    "neoorigins:kraken_water_breathing",
-    "neoorigins:kraken_deep_current",
-    "neoorigins:aquatic_fish_diet",
-    "neoorigins:aquatic_fish_diet_bonus",
-    "neoorigins:kraken_pressure_armor",
-    "neoorigins:kraken_summon_guardian",
-    "neoorigins:kraken_beached",
-    "neoorigins:kraken_daylight_damage",
-    "neoorigins:kraken_massive",
-    "neoorigins:kraken_dries_out",
-    "neoorigins:aquatic_underwater_mining",
-    "neoorigins:aquatic_depth_strider",
-    "neoorigins:kraken_essence"
+    "neoorigins:kraken/kraken_tentacle_lash",
+    "neoorigins:kraken/kraken_ink_shot",
+    "neoorigins:kraken/kraken_water_breathing",
+    "neoorigins:kraken/kraken_deep_current",
+    "neoorigins:shared/aquatic_fish_diet",
+    "neoorigins:shared/aquatic_fish_diet_bonus",
+    "neoorigins:kraken/kraken_pressure_armor",
+    "neoorigins:kraken/kraken_summon_guardian",
+    "neoorigins:kraken/kraken_beached",
+    "neoorigins:kraken/kraken_daylight_damage",
+    "neoorigins:kraken/kraken_massive",
+    "neoorigins:kraken/kraken_dries_out",
+    "neoorigins:shared/aquatic_underwater_mining",
+    "neoorigins:shared/aquatic_depth_strider",
+    "neoorigins:kraken/kraken_essence"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:kraken_evolved_hp"
+        "neoorigins:kraken/kraken_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:kraken_ascended_hp",
-        "neoorigins:kraken_ascended_swim_speed"
+        "neoorigins:kraken/kraken_ascended_hp",
+        "neoorigins:kraken/kraken_ascended_swim_speed"
       ],
       "remove": [
-        "neoorigins:kraken_evolved_hp"
+        "neoorigins:kraken/kraken_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:kraken_apex_hp",
-        "neoorigins:kraken_apex_conduit_power"
+        "neoorigins:kraken/kraken_apex_hp",
+        "neoorigins:kraken/kraken_apex_conduit_power"
       ],
       "remove": [
-        "neoorigins:kraken_ascended_hp"
+        "neoorigins:kraken/kraken_ascended_hp"
       ]
     }
   ],

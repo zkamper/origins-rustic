@@ -5,16 +5,16 @@
   "impact": "medium",
   "order": 103,
   "powers": [
-    "neoorigins:golden_bell_iron_shirt",
-    "neoorigins:golden_bell_rooted",
-    "neoorigins:golden_bell_hard_qigong",
-    "neoorigins:golden_bell_ring",
-    "neoorigins:golden_bell_heavy_stance"
+    "neoorigins:golden_bell/golden_bell_iron_shirt",
+    "neoorigins:golden_bell/golden_bell_rooted",
+    "neoorigins:golden_bell/golden_bell_hard_qigong",
+    "neoorigins:golden_bell/golden_bell_ring",
+    "neoorigins:golden_bell/golden_bell_heavy_stance"
   ],
   "upgrades": [],
   "tier_powers": [
-    { "tier": 1, "add": [ "neoorigins:golden_bell_diamond_body" ], "remove": [] },
-    { "tier": 2, "add": [ "neoorigins:golden_bell_reflected_force" ], "remove": [] },
-    { "tier": 3, "add": [ "neoorigins:golden_bell_bell_toll" ], "remove": [] }
+    { "tier": 1, "add": [ "neoorigins:golden_bell/golden_bell_diamond_body" ], "remove": [] },
+    { "tier": 2, "add": [ "neoorigins:golden_bell/golden_bell_reflected_force" ], "remove": [] },
+    { "tier": 3, "add": [ "neoorigins:golden_bell/golden_bell_bell_toll" ], "remove": [] }
   ]
 }

@@ -5,19 +5,19 @@
   "impact": "medium",
   "order": 101,
   "powers": [
-    "neoorigins:windwalker_featherfall",
-    "neoorigins:windwalker_air_jumps",
-    "neoorigins:windwalker_lofty_leap",
-    "neoorigins:windwalker_cloud_steps",
-    "neoorigins:windwalker_wall_grace",
-    "neoorigins:windwalker_gale_dash",
-    "neoorigins:windwalker_swift_current",
-    "neoorigins:windwalker_typhoon"
+    "neoorigins:windwalker/windwalker_featherfall",
+    "neoorigins:windwalker/windwalker_air_jumps",
+    "neoorigins:windwalker/windwalker_lofty_leap",
+    "neoorigins:windwalker/windwalker_cloud_steps",
+    "neoorigins:windwalker/windwalker_wall_grace",
+    "neoorigins:windwalker/windwalker_gale_dash",
+    "neoorigins:windwalker/windwalker_swift_current",
+    "neoorigins:windwalker/windwalker_typhoon"
   ],
   "upgrades": [],
   "tier_powers": [
-    { "tier": 1, "add": [ "neoorigins:windwalker_sky_dancer" ], "remove": [] },
-    { "tier": 2, "add": [ "neoorigins:windwalker_riding_wind" ], "remove": [] },
-    { "tier": 3, "add": [ "neoorigins:windwalker_eye_of_storm" ], "remove": [] }
+    { "tier": 1, "add": [ "neoorigins:windwalker/windwalker_sky_dancer" ], "remove": [] },
+    { "tier": 2, "add": [ "neoorigins:windwalker/windwalker_riding_wind" ], "remove": [] },
+    { "tier": 3, "add": [ "neoorigins:windwalker/windwalker_eye_of_storm" ], "remove": [] }
   ]
 }

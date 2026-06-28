@@ -6,31 +6,31 @@
   "order": 20,
   "required_mods": ["dragonsurvival"],
   "powers": [
-    "neoorigins:sea_dragon_form"
+    "neoorigins:sea_dragon/sea_dragon_form"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:sea_dragon_evolved_hp"
+        "neoorigins:sea_dragon/sea_dragon_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:sea_dragon_ascended_might"
+        "neoorigins:sea_dragon/sea_dragon_ascended_might"
       ],
       "remove": []
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:sea_dragon_apex_hp"
+        "neoorigins:sea_dragon/sea_dragon_apex_hp"
       ],
       "remove": [
-        "neoorigins:sea_dragon_evolved_hp"
+        "neoorigins:sea_dragon/sea_dragon_evolved_hp"
       ]
     }
   ],

@@ -5,16 +5,16 @@
   "impact": "medium",
   "order": 102,
   "powers": [
-    "neoorigins:qi_resource",
-    "neoorigins:qi_meditation_charge",
-    "neoorigins:qi_meditation_heal",
-    "neoorigins:qi_vibrating_palm",
-    "neoorigins:qi_hardened"
+    "neoorigins:qi_cultivator/qi_resource",
+    "neoorigins:qi_cultivator/qi_meditation_charge",
+    "neoorigins:qi_cultivator/qi_meditation_heal",
+    "neoorigins:qi_cultivator/qi_vibrating_palm",
+    "neoorigins:qi_cultivator/qi_hardened"
   ],
   "upgrades": [],
   "tier_powers": [
-    { "tier": 1, "add": [ "neoorigins:qi_dantian_expansion" ], "remove": [] },
-    { "tier": 2, "add": [ "neoorigins:qi_core_pressure" ], "remove": [] },
-    { "tier": 3, "add": [ "neoorigins:qi_flying_sword" ], "remove": [] }
+    { "tier": 1, "add": [ "neoorigins:qi_cultivator/qi_dantian_expansion" ], "remove": [] },
+    { "tier": 2, "add": [ "neoorigins:qi_cultivator/qi_core_pressure" ], "remove": [] },
+    { "tier": 3, "add": [ "neoorigins:qi_cultivator/qi_flying_sword" ], "remove": [] }
   ]
 }

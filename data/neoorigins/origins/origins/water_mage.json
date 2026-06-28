@@ -5,42 +5,42 @@
   "impact": "high",
   "order": 41,
   "powers": [
-    "neoorigins:water_mage_tidal_wave",
-    "neoorigins:water_mage_healing_mist",
-    "neoorigins:water_mage_aquatic",
-    "neoorigins:water_mage_swim_speed",
-    "neoorigins:water_mage_moisture_regen",
-    "neoorigins:water_mage_dehydration",
-    "neoorigins:water_mage_fragile",
-    "neoorigins:water_mage_mana"
+    "neoorigins:water_mage/water_mage_tidal_wave",
+    "neoorigins:water_mage/water_mage_healing_mist",
+    "neoorigins:water_mage/water_mage_aquatic",
+    "neoorigins:water_mage/water_mage_swim_speed",
+    "neoorigins:water_mage/water_mage_moisture_regen",
+    "neoorigins:water_mage/water_mage_dehydration",
+    "neoorigins:water_mage/water_mage_fragile",
+    "neoorigins:water_mage/water_mage_mana"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:water_mage_evolved_hp"
+        "neoorigins:water_mage/water_mage_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:water_mage_ascended_hp",
-        "neoorigins:water_mage_ascended_swim_speed"
+        "neoorigins:water_mage/water_mage_ascended_hp",
+        "neoorigins:water_mage/water_mage_ascended_swim_speed"
       ],
       "remove": [
-        "neoorigins:water_mage_evolved_hp"
+        "neoorigins:water_mage/water_mage_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:water_mage_apex_hp",
-        "neoorigins:water_mage_apex_conduit_power"
+        "neoorigins:water_mage/water_mage_apex_hp",
+        "neoorigins:water_mage/water_mage_apex_conduit_power"
       ],
       "remove": [
-        "neoorigins:water_mage_ascended_hp"
+        "neoorigins:water_mage/water_mage_ascended_hp"
       ]
     }
   ]

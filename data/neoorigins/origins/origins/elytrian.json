@@ -5,42 +5,42 @@
   "impact": "medium",
   "order": 5,
   "powers": [
-    "neoorigins:elytrian_flight",
-    "neoorigins:elytrian_elytra_boost",
-    "neoorigins:elytrian_flight_speed",
-    "neoorigins:elytrian_no_fall",
-    "neoorigins:elytrian_no_kinetic",
-    "neoorigins:elytrian_fragile",
-    "neoorigins:elytrian_no_heavy_armor"
+    "neoorigins:elytrian/elytrian_flight",
+    "neoorigins:elytrian/elytrian_elytra_boost",
+    "neoorigins:elytrian/elytrian_flight_speed",
+    "neoorigins:elytrian/elytrian_no_fall",
+    "neoorigins:elytrian/elytrian_no_kinetic",
+    "neoorigins:elytrian/elytrian_fragile",
+    "neoorigins:elytrian/elytrian_no_heavy_armor"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:elytrian_evolved_hp"
+        "neoorigins:elytrian/elytrian_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:elytrian_ascended_hp",
-        "neoorigins:elytrian_ascended_sky_piercer"
+        "neoorigins:elytrian/elytrian_ascended_hp",
+        "neoorigins:elytrian/elytrian_ascended_sky_piercer"
       ],
       "remove": [
-        "neoorigins:elytrian_evolved_hp"
+        "neoorigins:elytrian/elytrian_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:elytrian_apex_hp",
-        "neoorigins:elytrian_apex_sky_piercer"
+        "neoorigins:elytrian/elytrian_apex_hp",
+        "neoorigins:elytrian/elytrian_apex_sky_piercer"
       ],
       "remove": [
-        "neoorigins:elytrian_ascended_hp",
-        "neoorigins:elytrian_ascended_sky_piercer"
+        "neoorigins:elytrian/elytrian_ascended_hp",
+        "neoorigins:elytrian/elytrian_ascended_sky_piercer"
       ]
     }
   ]

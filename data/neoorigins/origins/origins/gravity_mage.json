@@ -5,41 +5,41 @@
   "impact": "high",
   "order": 44,
   "powers": [
-    "neoorigins:gravity_mage_well",
-    "neoorigins:gravity_mage_repulse",
-    "neoorigins:gravity_mage_levitation",
-    "neoorigins:gravity_mage_no_fall_damage",
-    "neoorigins:gravity_mage_unmoored",
-    "neoorigins:gravity_mage_frail",
-    "neoorigins:gravity_mage_mana"
+    "neoorigins:gravity_mage/gravity_mage_well",
+    "neoorigins:gravity_mage/gravity_mage_repulse",
+    "neoorigins:gravity_mage/gravity_mage_levitation",
+    "neoorigins:gravity_mage/gravity_mage_no_fall_damage",
+    "neoorigins:gravity_mage/gravity_mage_unmoored",
+    "neoorigins:gravity_mage/gravity_mage_frail",
+    "neoorigins:gravity_mage/gravity_mage_mana"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:gravity_mage_evolved_hp"
+        "neoorigins:gravity_mage/gravity_mage_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:gravity_mage_ascended_hp",
-        "neoorigins:gravity_mage_ascended_slow_falling"
+        "neoorigins:gravity_mage/gravity_mage_ascended_hp",
+        "neoorigins:gravity_mage/gravity_mage_ascended_slow_falling"
       ],
       "remove": [
-        "neoorigins:gravity_mage_evolved_hp"
+        "neoorigins:gravity_mage/gravity_mage_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:gravity_mage_apex_hp",
-        "neoorigins:gravity_mage_apex_jump_boost"
+        "neoorigins:gravity_mage/gravity_mage_apex_hp",
+        "neoorigins:gravity_mage/gravity_mage_apex_jump_boost"
       ],
       "remove": [
-        "neoorigins:gravity_mage_ascended_hp"
+        "neoorigins:gravity_mage/gravity_mage_ascended_hp"
       ]
     }
   ]

@@ -5,48 +5,48 @@
   "impact": "high",
   "order": 14,
   "powers": [
-    "neoorigins:draconic_fire_immunity",
-    "neoorigins:draconic_lava_swimming",
-    "neoorigins:draconic_lava_vision",
-    "neoorigins:draconic_slow_fall",
-    "neoorigins:draconic_flight",
-    "neoorigins:draconic_active_fireball",
-    "neoorigins:draconic_scare_mobs",
-    "neoorigins:draconic_size",
-    "neoorigins:draconic_attack_bonus",
-    "neoorigins:draconic_water_weakness",
-    "neoorigins:draconic_hunger_drain",
-    "neoorigins:draconic_stamina"
+    "neoorigins:draconic/draconic_fire_immunity",
+    "neoorigins:draconic/draconic_lava_swimming",
+    "neoorigins:draconic/draconic_lava_vision",
+    "neoorigins:draconic/draconic_slow_fall",
+    "neoorigins:draconic/draconic_flight",
+    "neoorigins:draconic/draconic_active_fireball",
+    "neoorigins:draconic/draconic_scare_mobs",
+    "neoorigins:draconic/draconic_size",
+    "neoorigins:draconic/draconic_attack_bonus",
+    "neoorigins:draconic/draconic_water_weakness",
+    "neoorigins:draconic/draconic_hunger_drain",
+    "neoorigins:draconic/draconic_stamina"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:draconic_evolved_hp"
+        "neoorigins:draconic/draconic_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:draconic_ascended_hp",
-        "neoorigins:draconic_ascended_attack"
+        "neoorigins:draconic/draconic_ascended_hp",
+        "neoorigins:draconic/draconic_ascended_attack"
       ],
       "remove": [
-        "neoorigins:draconic_evolved_hp"
+        "neoorigins:draconic/draconic_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:draconic_apex_hp",
-        "neoorigins:draconic_apex_attack",
-        "neoorigins:draconic_apex_speed"
+        "neoorigins:draconic/draconic_apex_hp",
+        "neoorigins:draconic/draconic_apex_attack",
+        "neoorigins:draconic/draconic_apex_speed"
       ],
       "remove": [
-        "neoorigins:draconic_ascended_hp",
-        "neoorigins:draconic_ascended_attack"
+        "neoorigins:draconic/draconic_ascended_hp",
+        "neoorigins:draconic/draconic_ascended_attack"
       ]
     }
   ]

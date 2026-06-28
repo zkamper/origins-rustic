@@ -5,18 +5,18 @@
   "impact": "high",
   "order": 105,
   "powers": [
-    "neoorigins:jianxian_sword_heart",
-    "neoorigins:jianxian_keen_edge",
-    "neoorigins:jianxian_sword_qi",
-    "neoorigins:jianxian_riding_sword",
-    "neoorigins:jianxian_flickering_slash",
-    "neoorigins:jianxian_immortal_body",
-    "neoorigins:jianxian_ten_thousand_swords"
+    "neoorigins:jianxian/jianxian_sword_heart",
+    "neoorigins:jianxian/jianxian_keen_edge",
+    "neoorigins:jianxian/jianxian_sword_qi",
+    "neoorigins:jianxian/jianxian_riding_sword",
+    "neoorigins:jianxian/jianxian_flickering_slash",
+    "neoorigins:jianxian/jianxian_immortal_body",
+    "neoorigins:jianxian/jianxian_ten_thousand_swords"
   ],
   "upgrades": [],
   "tier_powers": [
-    { "tier": 1, "add": [ "neoorigins:jianxian_sword_heart_unity" ], "remove": [] },
-    { "tier": 2, "add": [ "neoorigins:jianxian_heavenly_formation" ], "remove": [] },
-    { "tier": 3, "add": [ "neoorigins:jianxian_heaven_severing_slash" ], "remove": [] }
+    { "tier": 1, "add": [ "neoorigins:jianxian/jianxian_sword_heart_unity" ], "remove": [] },
+    { "tier": 2, "add": [ "neoorigins:jianxian/jianxian_heavenly_formation" ], "remove": [] },
+    { "tier": 3, "add": [ "neoorigins:jianxian/jianxian_heaven_severing_slash" ], "remove": [] }
   ]
 }

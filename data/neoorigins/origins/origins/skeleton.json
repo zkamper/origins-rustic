@@ -5,50 +5,50 @@
   "impact": "high",
   "order": 47,
   "powers": [
-    "neoorigins:skeleton_undead",
-    "neoorigins:skeleton_marksmanship",
-    "neoorigins:skeleton_speed",
-    "neoorigins:skeleton_jump",
-    "neoorigins:skeleton_brittle_frame",
-    "neoorigins:skeleton_daylight_damage",
-    "neoorigins:skeleton_diet",
-    "neoorigins:skeleton_eat_bone_meal"
+    "neoorigins:skeleton/skeleton_undead",
+    "neoorigins:skeleton/skeleton_marksmanship",
+    "neoorigins:skeleton/skeleton_speed",
+    "neoorigins:skeleton/skeleton_jump",
+    "neoorigins:skeleton/skeleton_brittle_frame",
+    "neoorigins:skeleton/skeleton_daylight_damage",
+    "neoorigins:skeleton/skeleton_diet",
+    "neoorigins:skeleton/skeleton_eat_bone_meal"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:skeleton_evolved_marksmanship",
-        "neoorigins:skeleton_evolved_hp",
-        "neoorigins:skeleton_evolved_diet"
+        "neoorigins:skeleton/skeleton_evolved_marksmanship",
+        "neoorigins:skeleton/skeleton_evolved_hp",
+        "neoorigins:skeleton/skeleton_evolved_diet"
       ],
       "remove": [
-        "neoorigins:skeleton_marksmanship",
-        "neoorigins:skeleton_diet"
+        "neoorigins:skeleton/skeleton_marksmanship",
+        "neoorigins:skeleton/skeleton_diet"
       ]
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:skeleton_ascended_speed",
-        "neoorigins:skeleton_ascended_daylight_damage"
+        "neoorigins:skeleton/skeleton_ascended_speed",
+        "neoorigins:skeleton/skeleton_ascended_daylight_damage"
       ],
       "remove": [
-        "neoorigins:skeleton_speed",
-        "neoorigins:skeleton_daylight_damage"
+        "neoorigins:skeleton/skeleton_speed",
+        "neoorigins:skeleton/skeleton_daylight_damage"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:skeleton_apex_brittle_frame",
-        "neoorigins:skeleton_apex_fire_resistance"
+        "neoorigins:skeleton/skeleton_apex_brittle_frame",
+        "neoorigins:skeleton/skeleton_apex_fire_resistance"
       ],
       "remove": [
-        "neoorigins:skeleton_brittle_frame",
-        "neoorigins:skeleton_ascended_daylight_damage",
-        "neoorigins:skeleton_evolved_diet"
+        "neoorigins:skeleton/skeleton_brittle_frame",
+        "neoorigins:skeleton/skeleton_ascended_daylight_damage",
+        "neoorigins:skeleton/skeleton_evolved_diet"
       ]
     }
   ]

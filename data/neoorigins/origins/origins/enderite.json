@@ -5,43 +5,43 @@
   "impact": "high",
   "order": 31,
   "powers": [
-    "neoorigins:enderite_teleport",
-    "neoorigins:enderite_phase",
-    "neoorigins:enderite_slow_fall",
-    "neoorigins:enderite_night_vision",
-    "neoorigins:enderite_scare_endermites",
-    "neoorigins:enderite_water_damage",
-    "neoorigins:enderite_daylight_weakness",
-    "neoorigins:enderite_attack_bonus",
-    "neoorigins:enderite_energy"
+    "neoorigins:enderite/enderite_teleport",
+    "neoorigins:enderite/enderite_phase",
+    "neoorigins:enderite/enderite_slow_fall",
+    "neoorigins:enderite/enderite_night_vision",
+    "neoorigins:enderite/enderite_scare_endermites",
+    "neoorigins:enderite/enderite_water_damage",
+    "neoorigins:enderite/enderite_daylight_weakness",
+    "neoorigins:enderite/enderite_attack_bonus",
+    "neoorigins:enderite/enderite_energy"
   ],
   "upgrades": [],
   "tier_powers": [
     {
       "tier": 1,
       "add": [
-        "neoorigins:enderite_evolved_hp"
+        "neoorigins:enderite/enderite_evolved_hp"
       ],
       "remove": []
     },
     {
       "tier": 2,
       "add": [
-        "neoorigins:enderite_ascended_hp",
-        "neoorigins:enderite_ascended_speed"
+        "neoorigins:enderite/enderite_ascended_hp",
+        "neoorigins:enderite/enderite_ascended_speed"
       ],
       "remove": [
-        "neoorigins:enderite_evolved_hp"
+        "neoorigins:enderite/enderite_evolved_hp"
       ]
     },
     {
       "tier": 3,
       "add": [
-        "neoorigins:enderite_apex_hp",
-        "neoorigins:enderite_apex_fire_resistance"
+        "neoorigins:enderite/enderite_apex_hp",
+        "neoorigins:enderite/enderite_apex_fire_resistance"
       ],
       "remove": [
-        "neoorigins:enderite_ascended_hp"
+        "neoorigins:enderite/enderite_ascended_hp"
       ]
     }
   ]
