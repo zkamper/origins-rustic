@@ -25,6 +25,6 @@
       ]
     }
   },
-  "resource_cost": "neoorigins:golem_stamina",
+  "resource_cost": "neoorigins:golem/golem_stamina",
   "resource_cost_amount": 30
 }

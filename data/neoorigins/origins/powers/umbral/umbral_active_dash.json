@@ -7,6 +7,6 @@
     "strength": 2.0,
     "allow_vertical": true
   },
-  "resource_cost": "neoorigins:umbral_energy",
+  "resource_cost": "neoorigins:umbral/umbral_energy",
   "resource_cost_amount": 20
 }

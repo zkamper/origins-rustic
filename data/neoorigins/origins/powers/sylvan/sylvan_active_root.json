@@ -27,6 +27,6 @@
       }
     }
   },
-  "resource_cost": "neoorigins:sylvan_vitality",
+  "resource_cost": "neoorigins:sylvan/sylvan_vitality",
   "resource_cost_amount": 20
 }

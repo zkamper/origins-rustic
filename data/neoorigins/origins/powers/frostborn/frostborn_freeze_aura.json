@@ -27,6 +27,6 @@
       }
     }
   },
-  "resource_cost": "neoorigins:frostborn_stamina",
+  "resource_cost": "neoorigins:frostborn/frostborn_stamina",
   "resource_cost_amount": 20
 }

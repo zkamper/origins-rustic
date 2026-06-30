@@ -31,6 +31,6 @@
       }
     ]
   },
-  "resource_cost": "neoorigins:cinderborn_stamina",
+  "resource_cost": "neoorigins:cinderborn/cinderborn_stamina",
   "resource_cost_amount": 30
 }

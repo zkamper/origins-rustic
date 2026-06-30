@@ -32,6 +32,6 @@
       }
     }
   },
-  "resource_cost": "neoorigins:warden_stamina",
+  "resource_cost": "neoorigins:warden/warden_stamina",
   "resource_cost_amount": 40
 }
