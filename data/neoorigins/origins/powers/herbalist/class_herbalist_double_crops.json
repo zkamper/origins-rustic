@@ -1,15 +1,14 @@
 {
   "type": "neoorigins:crop_harvest_bonus",
-  "multiplier": 1.5,
-  "name": "Belșug",
-  "description": "Recoltele tale sunt mai bogate",
   "power_condition": {
     "type": "neoorigins:equipped_item",
     "equipment_slot": "mainhand",
     "item_condition": {
-      "ingredient": {
-        "tag": "#minecraft:hoes"
-      }
+      "tag": "minecraft:hoes"
     }
-  }
+  },
+  "power_condition_mode": "ALLOW",
+  "extra_drops": 1,
+  "name": "Belșug",
+  "description": "Recoltele tale sunt mai bogate"
 }

@@ -1,7 +1,7 @@
 {
   "type": "neoorigins:active_ability",
   "cooldown_icon": "minecraft:fire_charge",
-  "cooldown_ticks": 100,
+  "cooldown_ticks": 300,
   "entity_action": {
     "type": "neoorigins:and",
     "actions": [

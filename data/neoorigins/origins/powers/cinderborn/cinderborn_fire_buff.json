@@ -1,6 +1,6 @@
 {
   "type": "neoorigins:condition_passive",
-  "condition": { "type": "neoorigins:biome", "tag": "minecraft:is_nether" },
+  "condition": { "type": "neoorigins:on_fire" },
   "entity_action": {
     "type": "neoorigins:apply_effect",
     "effect": "minecraft:strength",
